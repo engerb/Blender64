@@ -1,9 +1,7 @@
 # Blender64
-Export mesh from Blender 3D to a n64 display list format. I was interested in N64 homebrew dev for a while and wrote this back around 2014, many things including code style and features could be improved and I pla to revisit this soon hopefully.
+Export mesh from Blender 3D to a n64 display list format. I was interested in N64 homebrew dev for a while and wrote this back around 2014, many things including code style and features could be improved and I plan to revisit this soon hopefully.
 
 ![Demo](demo/demo.gif?raw=true "Demo")
-
-It's pretty wonky and embarrassing looking at the code today but the concept is there to build on.
 
 # Features
 - Was only tested for Blender v2.76b
